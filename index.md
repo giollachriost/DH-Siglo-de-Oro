@@ -8,3 +8,5 @@ layout: home
 
 <img src="images/map-demo.png" alt="hi" class="inline"/>
 
+link [more data] (https://github.com/giollachriost/DH-Siglo-de-Oro/edit/master/data/tate-artists-mullen-cleaned.csv")
+
